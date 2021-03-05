@@ -283,7 +283,7 @@ a:hover{
 .tile-1{
     background: linear-gradient(rgba(47, 54, 64,0.5),rgba(47, 54, 64,0.7)), url(../images/visit\ uch\ sharif\ card\ backgroud.jpeg) no-repeat;
     margin-left: 10px;
-    max-width: 50% !important;
+    max-width: 45% !important;
     height: 80%;
     display: inline-block;
     animation: fadein ease 3s;
@@ -359,7 +359,7 @@ a:hover{
 .tile-2{
     background:linear-gradient(rgba(47, 54, 64,0.2),rgba(47, 54, 64,0.3)),  url("../images/music\ card\ background.jpeg") no-repeat;
     margin-left: 17px;
-    max-width: 48% !important;
+    max-width: 45% !important;
     height: 80%;
     animation: fadein ease 3s;
 }
