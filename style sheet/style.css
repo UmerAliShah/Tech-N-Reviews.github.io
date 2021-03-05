@@ -359,7 +359,7 @@ a:hover{
 .tile-2{
     background:linear-gradient(rgba(47, 54, 64,0.2),rgba(47, 54, 64,0.3)),  url("../images/music\ card\ background.jpeg") no-repeat;
     margin-left: 17px;
-    max-width: 45% !important;
+    max-width: 40% !important;
     height: 80%;
     animation: fadein ease 3s;
 }
